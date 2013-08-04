@@ -8,12 +8,12 @@
 
 @font-face {
     font-family: 'Mono Social Icons Font';
-    src: url('MonoSocialIconsFont-1.10.eot');
-    src: url('MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
-         url('MonoSocialIconsFont-1.10.woff') format('woff'),
-         url('MonoSocialIconsFont-1.10.ttf') format('truetype'),
-         url('MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
-    src: url('MonoSocialIconsFont-1.10.ttf') format('truetype');
+    src: url('resources/MonoSocialIconsFont-1.10.eot');
+    src: url('resources/MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+         url('resources/MonoSocialIconsFont-1.10.woff') format('woff'),
+         url('resources/MonoSocialIconsFont-1.10.ttf') format('truetype'),
+         url('resources/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+    src: url('resources/MonoSocialIconsFont-1.10.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -79,7 +79,7 @@ body {
 #social {
 	position: relative;
 	color: #fff;
-	font-size: 30px;
+	font-size: 40px;
 }
 
 a {
