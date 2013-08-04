@@ -1,0 +1,93 @@
+* {
+	padding: 0;
+	overflow: hidden;
+	border: 0px;
+	margin: 0;
+	list-style: none;
+}
+
+@font-face {
+    font-family: 'Mono Social Icons Font';
+    src: url('MonoSocialIconsFont-1.10.eot');
+    src: url('MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+         url('MonoSocialIconsFont-1.10.woff') format('woff'),
+         url('MonoSocialIconsFont-1.10.ttf') format('truetype'),
+         url('MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+    src: url('MonoSocialIconsFont-1.10.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.symbol {
+    font-family: 'Mono Social Icons Font';
+    -webkit-text-rendering: optimizeLegibility;
+    -moz-text-rendering: optimizeLegibility;
+    -ms-text-rendering: optimizeLegibility;
+    -o-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -ms-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+
+
+#notification {
+	position: absolute;
+	bottom: 44px;
+	width: 100%;
+	background-color:rgba(54,54,54,.8);
+	min-height: 150px;
+}
+
+#title {
+	position: absolute;
+	top: 50%;
+	margin-top: -22px;
+	padding-left: 10px;
+}
+
+#message {
+	position: absolute;
+	top: 50%;
+	margin-top: -44px;
+	padding-left: 400px;
+	padding-right: 20px;
+	text-align: left;
+}
+
+#social {
+	position: relative;
+	color: #fff;
+	font-size: 30px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 44px;
+}
