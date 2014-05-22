@@ -61,9 +61,7 @@ html, body {
 
 .bar {
   background-color:rgba(54,54,54,.8);
-  width: 20%;
-  min-width: 200px;
-  max-width: 400px;
+  width: 175px;
   height: 100%;
   float: left;
   background-size: cover;
