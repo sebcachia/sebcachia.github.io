@@ -26,7 +26,7 @@ owner:
 google_analytics: UA-3576414-1
 google_verify: ZMG966sheYzavgwd15HsUDdRZ1-h3z1xouxDzXuF_pM
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:6CF7D1D4C3DD5952E1B5890419078C3D
+bing_verify: 6CF7D1D4C3DD5952E1B5890419078C3D
 
 # Links to include in top navigation
 # For external links add external: true
