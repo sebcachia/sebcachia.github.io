@@ -3,7 +3,7 @@ description:      Outdoor Freak and Allround Geek
 logo:             site-logo.png
 disqus_shortname: sebcachia
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://sebcachia.com
+url:              http://sebcachia.com
 
 # Owner/author information
 owner:

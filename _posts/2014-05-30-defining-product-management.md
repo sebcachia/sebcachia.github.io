@@ -5,7 +5,6 @@ description: "Before talking about a topic, let's define it."
 modified: 2014-05-30
 category: articles
 tags: [product management]
-image:
 comments: true  
 share: true
 ---
