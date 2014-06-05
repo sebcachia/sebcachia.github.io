@@ -7,6 +7,7 @@ category: articles
 tags: [product management]
 image:
 comments: true  
+share: true
 ---
 
 During my time working in Product Management, I have encountered a couple of different definitions of what a Product Manager should do. Probably the best place to start as I begin to blog about the topic, is to provide my own definition. It is worth mentioning that I do not consider this to be the "correct" definition of Product Management. Indeed I believe there is no such thing as a "correct" definition as the implementation of the role should vary to some degree from person to person based on their capabilities and style. This is mine.
