@@ -2,7 +2,7 @@
 layout: post
 title: Learning from Antipatterns
 description: "Antipatterns are a cheap way to learn from mistakes, somebody elses mistakes..."
-modified: 2014-06-06
+modified: 2014-06-05
 category: articles
 tags: [product management, antipatterns]
 image:
