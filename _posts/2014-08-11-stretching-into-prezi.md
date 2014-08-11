@@ -1,4 +1,5 @@
----layout: post
+---
+layout: post
 title: Stretching (or zooming?) into Prezi
 description: "New adventures in Budapest!"
 modified: 2014-08-11
