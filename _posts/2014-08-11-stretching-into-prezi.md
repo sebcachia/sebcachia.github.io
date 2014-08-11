@@ -4,8 +4,7 @@ title: Stretching (or zooming?) into Prezi
 description: "New adventures in Budapest!"
 modified: 2014-08-11
 category: articles
-tags: [product management, relocation]
-image:
+tags: [product management]
 comments: true  
 share: true
 ---
