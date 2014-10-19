@@ -35,7 +35,7 @@ The month leading up to my move flew past and before I knew it I was on a plane 
 
 <figure>
   <img src="../../images/posts/2014-10-18-sfoffice.jpg">
-  <figcaption>Prezi's SF OFfice</figcaption>
+  <figcaption>Prezi's SF Office</figcaption>
 </figure>
 
 As a Product Manager, understanding your target users and the ecosystem of your product are prerequisites to success, so being new to Prezi, I knew I needed to quickly immerse myself in the space. Happily, Prezi understands the importance of understanding our users, and dedicates the people and resources necessary to achieve this. This made my journey of discovery much easier, as I was able to join a research trip to Chicago and experience our users first hand. 
