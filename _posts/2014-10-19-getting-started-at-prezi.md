@@ -49,6 +49,6 @@ Finally back in Budapest, it was time to focus on settling in. Prezi attracts pe
 
 Work has been a lot of fun and an interesting challenge. There was a lot to do as I got up to speed and I will admit to having lost track of time a few times while digging through research transcripts and querying our data warehouse. My fellow Prezillians have helped me keep balance though, generally taking the form of an invitation for weeknight dinners or weekend outings. I have also enjoyed some quiet time to myself, cooking or exploring the city by bike and on foot. I was also able to take advantage of Prezi’s flexibility to spend some time working from Malta, letting me spend time with my family, especially Marica who hadn’t yet moved to Budapest.
 
-All in all, a busy, but very worthwile experience so far. I am eager to see what comes next!
+All in all, a busy, but very worthwhile experience so far. I am eager to see what comes next!
 
 Did I mention [we are hiring](http://www.prezi.com/jobs)?
