@@ -5,7 +5,7 @@ title: About Me
 tags: []
 ---
 
-Hi there! I'm Sebastian Cachia, though most people just call me Seb. I was born and raised in the European island nation of [Malta](http://en.wikipedia.org/wiki/Malta). I am in the process of relocating to Budapest with my wife Marica and our dog Flora.
+Hi there! I'm Sebastian Cachia, though most people just call me Seb. I was born and raised in the European island nation of [Malta](http://en.wikipedia.org/wiki/Malta). I currently live in Budapest with my wife Marica and our dog Flora.
 
 <figure>
   <img src="../images/posts/about_safari.jpg">
