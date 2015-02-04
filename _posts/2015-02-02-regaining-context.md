@@ -32,3 +32,5 @@ As a Product Manager, you are dependent on a lot of people to help you make your
 
 #Plans
 Finally spend some time getting familiar with existing plans. First of all, look at the company strategy, what is your product’s contribution to make it a reality? If you are leading a new product, the previous steps should have helped you develop a strategy for your product and a roadmap towards achieving it. If you are taking over from a previous Product Manager, review their strategy and roadmap. They are now yours so make sure to review till you are confident with them and  revise them if necessary.
+
+**PS**: Prezi is looking for great Product people, why not [join us?](http://prezi.com/jobs/departments/product-design-ux?ref=seb)?
