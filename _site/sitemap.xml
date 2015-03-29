@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>http://sebcachia.com</loc>
-    </url>
-    
-    
-    <url>
-        <loc>http://sebcachia.com/articles/getting-started-at-prezi</loc>
-    </url>
-    
-    <url>
-        <loc>http://sebcachia.com/articles/stretching-into-prezi</loc>
-    </url>
-    
-    <url>
-        <loc>http://sebcachia.com/articles/learning-from-antipatterns</loc>
-    </url>
-    
-    <url>
-        <loc>http://sebcachia.com/articles/defining-product-management</loc>
-    </url>
-    
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:4000/articles/managing-detail-in-product-development/</loc>
+    <lastmod>2015-03-29T00:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/articles/regaining-context/</loc>
+    <lastmod>2015-02-02T00:00:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/articles/getting-started-at-prezi/</loc>
+    <lastmod>2014-10-19T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/articles/stretching-into-prezi/</loc>
+    <lastmod>2014-08-11T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/articles/learning-from-antipatterns/</loc>
+    <lastmod>2014-06-05T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/articles/defining-product-management/</loc>
+    <lastmod>2014-05-30T00:00:00+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2015-03-29T23:56:24+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/tags/</loc>
+    <lastmod>2015-03-29T23:56:24+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/articles/</loc>
+    <lastmod>2015-03-29T23:56:24+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2015-03-29T23:56:24+02:00</lastmod>
+  </url>
 </urlset>

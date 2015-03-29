@@ -6,28 +6,35 @@
 <head>
 <meta charset="utf-8">
 <title>Latest Posts &#8211; sebcachia.com</title>
-<meta name="description" content="Musings of a Geek. Personal website and blog of Sebastian Cachia">
+
 <meta name="keywords" content="sebcachia, Sebastian Cachia, blog, website, geek">
-<!-- Twitter Card and Open Graph tags -->
-<meta name="twitter:title" content="Latest Posts &#8211; sebcachia.com">
-<meta name="twitter:description" content="Musings of a Geek. Personal website and blog of Sebastian Cachia">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Latest Posts">
+
+<meta name="twitter:site" content="@sebcachia">
 <meta name="twitter:creator" content="@sebcachia">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image:src" content="http://sebcachia.com/images/site-logo.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://localhost:4000/images/homepage.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Latest Posts &#8211; sebcachia.com">
-<meta property="og:description" content="Musings of a Geek. Personal website and blog of Sebastian Cachia">
-<meta property="og:url" content="http://sebcachia.com/index.html">
+<meta property="og:title" content="Latest Posts">
+
+<meta property="og:url" content="http://localhost:4000/">
 <meta property="og:site_name" content="sebcachia.com">
 
 <!-- Webmaster Tools verfication -->
 <meta name="google-site-verification" content="ZMG966sheYzavgwd15HsUDdRZ1-h3z1xouxDzXuF_pM">
-<meta name="msvalidate.01" content="6CF7D1D4C3DD5952E1B5890419078C3D">
 
 
-<link rel="canonical" href="http://sebcachia.com/">
-<link href="http://sebcachia.com/feed.xml" type="application/atom+xml" rel="alternate" title="sebcachia.com Feed">
-<link rel="author" href="https://plus.google.com/+sebastiancachia/?rel=author">
+
+<link rel="canonical" href="http://localhost:4000/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="sebcachia.com Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -35,76 +42,100 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://sebcachia.com/assets/css/main.css">
-<!-- Animations -->
-<link rel="stylesheet" href="http://sebcachia.com/assets/css/animate.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
 <!-- Webfonts -->
 <script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- Load Modernizr -->
-<script src="http://sebcachia.com/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://sebcachia.com/favicon.ico">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="http://sebcachia.com/favicon.png">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://sebcachia.com/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://sebcachia.com/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://sebcachia.com/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://sebcachia.com/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
 
 </head>
 
-<body id="page" itemscope itemtype="http://schema.org/WebPage">
+<body id="page">
 
-<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 <div class="navigation-wrapper">
-	<nav role="navigation" id="site-nav" class="animated drop" itemscope itemtype="http://schema.org/SiteNavigationElement">
+	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
-	        
-			<li><a href="http://sebcachia.com/">Home</a></li>
-	        
-			<li><a href="http://sebcachia.com/about">About</a></li>
-	        
-			<li><a href="http://sebcachia.com/articles">Articles</a></li>
-	        
-			<li><a href="http://sebcachia.com/tags.html">Tags</a></li>
-	        
-	        <li><a href="http://sebcachia.com/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+      
+		    
+		        
+		        
+		    <li><a href="http://sebcachia.com" target="_blank">Home</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="http://localhost:4000/about/" >About</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="http://localhost:4000/articles/" >Articles</a></li>
+		  
+		    
+		        
+		    
+		    <li><a href="http://localhost:4000/search/" >Search</a></li>
+		  
 	    </ul>
 	</nav>
 </div><!-- /.navigation-wrapper -->
 
-<header class="masthead" itemscope itemtype="http://schema.org/Organization">
-	<div class="wrap">
-	</div>
+<!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
+
+<header class="masthead">
+<!--
+	
+  -->
 </header><!-- /.masthead -->
 
 
-<div id="main" role="main" itemprop="mainContentOfPage">
-  <article class="entry" itemscope itemtype="http://schema.org/ItemPage">
-    <img src="http://sebcachia.com/images/homepage.png" class="entry-feature-image" alt="Latest Posts" itemprop="image">
+<div class="js-menu-screen menu-screen"></div>
+
+
+<div id="main" role="main">
+  <article class="entry">
+    <img src="http://localhost:4000/images/homepage.png" class="entry-feature-image" alt="Latest Posts" style="margin-top:0;">
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title" itemprop="name">Latest Posts</h1>
+        <h1 class="entry-title">Latest Posts</h1>
       </header>
-      <div class="entry-content" itemprop="description">
+      <div class="entry-content">
         <ul class="post-list">
  
-  <li><article><a href="http://sebcachia.com/articles/getting-started-at-prezi">Getting started at Prezi <span class="entry-date"><time datetime="2014-10-19T00:00:00+02:00">October 19, 2014</time></span></a></article></li>
+  <li><article><a href="http://localhost:4000/articles/managing-detail-in-product-development/">Managing Detail in Product Development <span class="entry-date"><time datetime="2015-03-29T00:00:00+01:00">March 29, 2015</time></span> <span class="excerpt">Balancing discovery and delivery means balancing the detail of user fidelity and solution resolution</span></a></article></li>
  
-  <li><article><a href="http://sebcachia.com/articles/stretching-into-prezi">Stretching (or zooming?) into Prezi <span class="entry-date"><time datetime="2014-08-11T00:00:00+02:00">August 11, 2014</time></span></a></article></li>
+  <li><article><a href="http://localhost:4000/articles/regaining-context/">Regaining Context - The new Product Manager <span class="entry-date"><time datetime="2015-02-02T00:00:00+01:00">February 02, 2015</time></span> <span class="excerpt">Getting up to speed as a Product Manager in a new job.</span></a></article></li>
  
-  <li><article><a href="http://sebcachia.com/articles/learning-from-antipatterns">Learning from Antipatterns <span class="entry-date"><time datetime="2014-06-05T00:00:00+02:00">June 05, 2014</time></span></a></article></li>
+  <li><article><a href="http://localhost:4000/articles/getting-started-at-prezi/">Getting started at Prezi <span class="entry-date"><time datetime="2014-10-19T00:00:00+02:00">October 19, 2014</time></span> <span class="excerpt">Zoom!</span></a></article></li>
  
-  <li><article><a href="http://sebcachia.com/articles/defining-product-management">Defining Product Management <span class="entry-date"><time datetime="2014-05-30T00:00:00+02:00">May 30, 2014</time></span></a></article></li>
+  <li><article><a href="http://localhost:4000/articles/stretching-into-prezi/">Stretching (or zooming?) into Prezi <span class="entry-date"><time datetime="2014-08-11T00:00:00+02:00">August 11, 2014</time></span> <span class="excerpt">New adventures in Budapest!</span></a></article></li>
+ 
+  <li><article><a href="http://localhost:4000/articles/learning-from-antipatterns/">Learning from Antipatterns <span class="entry-date"><time datetime="2014-06-05T00:00:00+02:00">June 05, 2014</time></span> <span class="excerpt">Antipatterns are a cheap way to learn from mistakes, somebody elses mistakes...</span></a></article></li>
+ 
+  <li><article><a href="http://localhost:4000/articles/defining-product-management/">Defining Product Management <span class="entry-date"><time datetime="2014-05-30T00:00:00+02:00">May 30, 2014</time></span> <span class="excerpt">Before talking about a topic, let's define it.</span></a></article></li>
 
 </ul>
       </div><!-- /.entry-content -->
@@ -113,27 +144,34 @@
 </div><!-- /#main -->
 
 <div class="footer-wrapper">
-  <footer role="contentinfo">
+  <footer role="contentinfo" class="entry-wrapper">
     
-<div class="social-icons">
-	<a href="http://twitter.com/sebcachia" title="Sebastian Cachia on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>
-	<a href="http://facebook.com/sebcachia" title="Sebastian Cachia on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>
-	<a href="https://plus.google.com/+sebastiancachia/" title="Sebastian Cachia on Google+" target="_blank"><i class="icon-google-plus icon-2x"></i></a>
-	<a href="http://linkedin.com/in/sebcachia" title="Sebastian Cachia on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>
-	
-	
-	
-	<a href="http://github.com/sebcachia" title="Sebastian Cachia on Github" target="_blank"><i class="icon-github icon-2x"></i></a>
-	
-</div><!-- /.social-icons -->
 
 <span>Hosted on <a href="https://github.com/sebcachia/sebcachia.github.io">Github</a>. Powered by <a href="http://jekyllrb.com">Jekyll</a>. Theme based on <a href="http://mademistakes.com/">So Simple</a>.</span>
+<div class="social-icons">
+	<a href="http://twitter.com/sebcachia" title="Sebastian Cachia on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+	<a href="http://facebook.com/sebcachia" title="Sebastian Cachia on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+	<a href="http://plus.google.com/+sebastiancachia" title="Sebastian Cachia on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+	<a href="http://linkedin.com/in/sebcachia" title="Sebastian Cachia on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+	
+	
+	
+	<a href="http://github.com/sebcachia" title="Sebastian Cachia on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+	
+	
+  <a href="http://localhost:4000/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+</div><!-- /.social-icons -->
   </footer>
 </div><!-- /.footer-wrapper -->
 
+<script type="text/javascript">
+  var BASE_URL = 'http://localhost:4000';
+</script>
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://sebcachia.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://sebcachia.com/assets/js/main.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -146,12 +184,12 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
 
-          
+
 
 </body>
 </html>

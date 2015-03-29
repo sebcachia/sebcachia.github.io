@@ -1,0 +1,83 @@
+[
+
+  
+    {
+      "title"			: "Managing Detail in Product Development",
+      "link"			: "http://localhost:4000/articles/managing-detail-in-product-development/",
+      "excerpt"		: "Balancing discovery and delivery means balancing the detail of user fidelity and solution resolution"
+    }
+  
+
+  
+    ,{
+      "title"			: "Regaining Context - The new Product Manager",
+      "link"			: "http://localhost:4000/articles/regaining-context/",
+      "excerpt"		: "Getting up to speed as a Product Manager in a new job."
+    }
+  
+
+  
+    ,{
+      "title"			: "Getting started at Prezi",
+      "link"			: "http://localhost:4000/articles/getting-started-at-prezi/",
+      "excerpt"		: "Zoom!"
+    }
+  
+
+  
+    ,{
+      "title"			: "Stretching (or zooming?) into Prezi",
+      "link"			: "http://localhost:4000/articles/stretching-into-prezi/",
+      "excerpt"		: "New adventures in Budapest!"
+    }
+  
+
+  
+    ,{
+      "title"			: "Learning from Antipatterns",
+      "link"			: "http://localhost:4000/articles/learning-from-antipatterns/",
+      "excerpt"		: "Antipatterns are a cheap way to learn from mistakes, somebody elses mistakes..."
+    }
+  
+
+  
+    ,{
+      "title"			: "Defining Product Management",
+      "link"			: "http://localhost:4000/articles/defining-product-management/",
+      "excerpt"		: "Before talking about a topic, let's define it."
+    }
+  
+
+
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Latest Posts",
+      "link"			: "http://localhost:4000/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About Me",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+
+]
