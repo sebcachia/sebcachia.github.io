@@ -22,6 +22,6 @@ A product can evolve in two directions; fidelity and resolution. If a product ex
   <figcaption>Based on <a href="http://www.mindtheproduct.com/2015/03/want-improve-design-process-question-fidelity/" title="Fidelity vs Resolution">Fidelity vs Resolution</a> by <a href="http://smithery.co/about/" title="Fidelity vs Resolution">John Willshire</a></figcaption>
 </figure>
 
-A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to mantain balance between the two. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. 
+A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to mantain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. 
 
 In my next post I will talk through my thoughts on guiding a product team through refining resolution and fidelity, in the meantime I would love to hear how you and your team manage this process.
