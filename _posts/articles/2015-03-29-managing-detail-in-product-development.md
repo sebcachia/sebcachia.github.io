@@ -15,13 +15,13 @@ Digging in too deep in any specific direction is actually really detrimental to 
 
 I have been thinking about this topic a fair bit recently when I came across this great [article](http://www.mindtheproduct.com/2015/03/want-improve-design-process-question-fidelity/)  by John Willshire that aligned well with recent discussions I had with the rest of my team. I will be adopting the language and model described by John over the rest of this post.
 
-A product can evolve in two directions; fidelity and resolution. If a product exists to serve its users, then fidelity descibes the level of detail to which you understand them. You increase this through discovery; talking to them, studying their needs and patterns, and testing your product against them as it evolves. On the other hand, resolution describes the detail of your solution and can evolve from a static napkin drawing to a well architected, fully coded product.
+A product can evolve in two directions; fidelity and resolution. If a product exists to serve its users, then fidelity describes the level of detail to which you understand them. You increase this through discovery; talking to them, studying their needs and patterns, and testing your product against them as it evolves. On the other hand, resolution describes the detail of your solution and can evolve from a static napkin drawing to a well architected, fully coded product.
 
 <figure>
   <img src="../../images/posts/2015-03-29-pm_detail.png">
   <figcaption>Based on <a href="http://www.mindtheproduct.com/2015/03/want-improve-design-process-question-fidelity/" title="Fidelity vs Resolution">Fidelity vs Resolution</a> by <a href="http://smithery.co/about/" title="Fidelity vs Resolution">John Willshire</a></figcaption>
 </figure>
 
-A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to mantain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. 
+A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to maintain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. 
 
 In my next post I will talk through my thoughts on guiding a product team through refining resolution and fidelity, in the meantime I would love to hear how you and your team manage this process.
