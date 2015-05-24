@@ -23,5 +23,3 @@ A product can evolve in two directions; fidelity and resolution. If a product ex
 </figure>
 
 A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to maintain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. 
-
-In my next post I will talk through my thoughts on guiding a product team through refining resolution and fidelity, in the meantime I would love to hear how you and your team manage this process.
