@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Critical, Complimentary Product Management Mindsets
-excerpt: ""
+excerpt: "Move your team forward with courage and keep them curious!"
 modified: 2016-03-03
 category: articles
 tags: [product management, curiosity, courage, mindset]
@@ -13,7 +13,7 @@ Your product team has been tasked with a particular project; perhaps the busines
 
 It is great when product teams are given the autonomy to decide how they approach projects but this freedom brings with it responsibility to make the best use of available time for the benefit of both their users and the organisation they form  part of. Product Managers can influence the likelihood of success of their team by embodying the two complementary mindsets of Curiosity and Courage, and ensuring the team adopts them as their own. 
 
-#I wonder why Curiosity is important?
+# I wonder why Curiosity is important?
 That is a great question! You have no reason to take my word for it! Perhaps you have been getting along just fine without questioning everything, but what if you could do even better, what if the lenses through which you view the world could do with some adjustment?
 
 Simple; You are probably not your product’s target market! You probably work with others that have greatly similar world views (in spite of the hard work your organisation is hopefully doing to increase its diversity). Finally, you most certainly are not omniscient, so even if you have worked hard to mitigate the above, there is always something you don’t know.
@@ -31,7 +31,7 @@ It sounds a lot like the tools of curiosity can so easily lead to dysfunction. I
   <figcaption><a href="https://flic.kr/p/be8bdP" title="Sherlock Holmes by spacebarpark (CC BY-NC-ND 2.0)">Sherlock Holmes by spacebarpark (CC BY-NC-ND 2.0)</a>.</figcaption>
 </figure>
 
-#I think Courage can help!
+# I think Courage can help!
 Courage is interestingly a mindset we strongly associate with traditional leadership but one which doesn’t get too much attention when discussing product team leadership.
 
 A curious product team will have gathered lots of context about the world, rules governing the stimuli you have observed and reactions you think they cause. You form different hypotheses about what to do, but which one do you pick? Getting started can be really hard, often paralysing. 

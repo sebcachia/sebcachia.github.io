@@ -18,19 +18,19 @@ Looking at the characteristics of an effective Product Manager, I find they fall
   <figcaption><a href="http://startupstockphotos.com/" title="A Blank Whiteboard">A Blank Whiteboard</a>.</figcaption>
 </figure>
 
-#The Role
+# The Role
 What is expected of you as a Product Manager in your new company? How will you be spending your days in the office? The answers to these questions can vary a fair bit from company to company, so to ensure you are set up for success, you should really get this clarified as soon as possible. Make sure to take every opportunity to start on this during your recruitment process. You can find out a lot based on the questions you are asked and should take advantage of any opportunity to ask questions. Some companies like Prezi even have extended on-site interviews, which gives you the opportunity to elicit even more information about the role. Once you are in the building, keep it up. Have an open talk with your boss and team about their expectations, read through any relevant documents such as job descriptions and observe how your new colleagues go about their job.
 
-#The Market
+# The Market
 As a Product Manager, you absolutely need to be in touch with the market. First of all, take a look at your industry, the trends and your competition. If your company has people in Product Marketing, they will surely have lots to share with you in this regard. Next, look at your target user. Does your company have personas? Spend time not only understanding them but also looking through any research backing them up. Here look to your User Experience team to help you out. Try to schedule time to join upcoming user interviews or usability tests, anything to get you closer to your users. For bonus points, spend some time out in the field talking to your users in real life.
 
-#Your Product
+# Your Product
 Being a Product Manager kind of implies responsibility for some kind of product right? Understand your remit; if you work for a single product company, perhaps it is a component or one of the platform versions; if your company has multiple products, you might manage one of them in its entirety (or yet again just a part of it). After understanding what specifically you are responsible for, take some time to become familiar with it. Use your product, discover what is delightful in it and what is frustrating. What are your users’ favourite parts and what are the top complaints that support receives?
 
-#Team
+# Team
 As a Product Manager, you are dependent on a lot of people to help you make your product successful. At the earliest stages you need to work with your UX team to understand your users and Product Marketing to ensure you are solving a worthwhile problem and have a way to sell it. You will work with your finance or data team to help set and confirm quantifiable goals for your projects. Further along you will work with a team to help you develop and deliver your product projects. At Prezi, this team consists of Engineers led by a Technical Lead, User Experience Researchers and Product Designers. Towards the end you will work with Sales, Marketing and Support to get the product out in the wild. For all these groups, identify your partners and spend time getting familiar with them, you will have a lot of work to do together.
 
-#Plans
+# Plans
 Finally spend some time getting familiar with existing plans. First of all, look at the company strategy, what is your product’s contribution to make it a reality? If you are leading a new product, the previous steps should have helped you develop a strategy for your product and a roadmap towards achieving it. If you are taking over from a previous Product Manager, review their strategy and roadmap. They are now yours so make sure to review till you are confident with them and  revise them if necessary.
 
 **PS**: Prezi is looking for great Product people, why not [join us?](http://prezi.com/jobs/departments/product-design-ux?ref=54988)?
