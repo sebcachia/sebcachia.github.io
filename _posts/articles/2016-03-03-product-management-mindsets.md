@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Critical, Complimentary Product Management Mindsets
-excerpt: "Move your team forward with courage and keep them curious!"
+excerpt: ""
 modified: 2016-03-03
 category: articles
 tags: [product management, curiosity, courage, mindset]
