@@ -1,53 +1,76 @@
 # Site wide configuration
 
-title: sebcachia.com
-locale: en_US
-description: Outdoor Freak and Allround Geek
-logo: #
-search: true
-url: http://sebcachia.com
+title:            sebcachia.com
+locale:           en_US
+url:              
+
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-gist
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..2
-  use_coderay: false
+  toc_levels: 1..6
+  enable_coderay: false
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
 
 
 # Site owner
 owner:
   name: Sebastian Cachia
-  avatar: avatar.png
-  email: me@sebcachia.com
+  avatar: avatar.jpg
+  bio: "Product person, Outdoor Freak and Allround Geek"
+  email: me@ mydomain .com
   disqus-shortname: sebcachia
   twitter: sebcachia
   facebook: sebcachia
-  github: sebcachia
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: sebcachia
-  instagram: sebcachia
-  flickr: #
-  tumblr: #username
-  pinterest: #username
   google:
-    plus: 
+    plus: #username
     analytics: UA-3576414-1
     verify: ZMG966sheYzavgwd15HsUDdRZ1-h3z1xouxDzXuF_pM
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
+  github: sebcachia
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: sebcachia
+  xing: #username
+  instagram: sebcachia
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

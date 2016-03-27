@@ -1,7 +1,10 @@
 ---
 layout: page
-permalink: /about/index.html
 title: About Me
+modified: 2016-03-27
+comments: false
+image: 
+permalink: /about/index.html
 tags: []
 ---
 

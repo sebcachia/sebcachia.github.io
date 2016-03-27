@@ -2,30 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">sebcachia.com</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-03-29T23:56:24+02:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2016-03-27T20:55:28+02:00</updated>
+<id>/</id>
 <author>
   <name>Sebastian Cachia</name>
-  <uri>http://localhost:4000/</uri>
-  <email>me@sebcachia.com</email>
+  <uri>/</uri>
+  <email>me@ mydomain .com</email>
 </author>
 
 
+<entry>
+  <title type="html"><![CDATA[Critical, Complimentary Product Management Mindsets]]></title>
+  <link rel="alternate" type="text/html" href="/articles/product-management-mindsets/" />
+  <id>/articles/product-management-mindsets</id>
+  <updated>2016-03-03T00:00:00-00:00</updated>
+  <published>2016-03-03T00:00:00+01:00</published>
   
+  <author>
+    <name>Sebastian Cachia</name>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Your product team has been tasked with a particular project; perhaps the business identified an important business metric that it wants improved, perhaps it thinks that solving a particular user problem will help move the organisation forward. Either way, your team now needs to decide how to kick off and deliver this new project. Instructions are probably vague, knowledge about the problem space is too, so how do you get started, and more importantly how do you make sure you end up being successful?&lt;/p&gt;
+
+&lt;p&gt;It is great when product teams are given the autonomy to decide how they approach projects but this freedom brings with it responsibility to make the best use of available time for the benefit of both their users and the organisation they form  part of. Product Managers can influence the likelihood of success of their team by embodying the two complementary mindsets of Curiosity and Courage, and ensuring the team adopts them as their own.&lt;/p&gt;
+
+&lt;h1 id=&quot;i-wonder-why-curiosity-is-important&quot;&gt;I wonder why Curiosity is important?&lt;/h1&gt;
+&lt;p&gt;That is a great question! You have no reason to take my word for it! Perhaps you have been getting along just fine without questioning everything, but what if you could do even better, what if the lenses through which you view the world could do with some adjustment?&lt;/p&gt;
+
+&lt;p&gt;Simple; You are probably not your product’s target market! You probably work with others that have greatly similar world views (in spite of the hard work your organisation is hopefully doing to increase its diversity). Finally, you most certainly are not omniscient, so even if you have worked hard to mitigate the above, there is always something you don’t know.&lt;/p&gt;
+
+&lt;p&gt;Curiosity is often synonymous with better understanding your target users. Product Managers at Prezi are lucky to be paired with excellent User Experience Researchers in each product team to help build empathy and answer questions. If you don’t have access to experts, don’t despair! Information on doing better product discovery is everywhere, and introducing even basic practices can bring amazing results.&lt;/p&gt;
+
+&lt;p&gt;Don’t limit your curiosity to user empathy. Encourage your engineers to be curious about how they approach problems and encourage your designers to think about new patterns for solving a problem. Many teams can claim to be doing a fairly good job of being curious in these situations. I find it easiest to fall short in what comes next. You have researched your user, tried out novel ideas to solve what you discover in design and in technology, you push out your amazing solution to the world, then &lt;a href=&quot;https://www.youtube.com/watch?v=Sqz5dbs5zmo&quot;&gt;you turn your back and walk away&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Curiosity becomes most important once you actually release something. The solution you released was probably suboptimal if not outright wrong. Unfortunately it is common to see teams attempt to solve this by being even more rigorous upfront. More than 15 years after the Agile Manifesto was signed, we still front load months of research, then spend months delivering and never have the time to revisit what we have built.&lt;/p&gt;
+
+&lt;p&gt;It sounds a lot like the tools of curiosity can so easily lead to dysfunction. I have experienced this, spent way too long on research and never returned to what was delivered. It might look like curiosity, but it is actually procrastination. Introspecting on why this happens, it feels like procrastination through discovery is a symptom of our fear of the unknown.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;../../images/posts/2016-03-03-curiosity.jpg&quot; /&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://flic.kr/p/be8bdP&quot; title=&quot;Sherlock Holmes by spacebarpark (CC BY-NC-ND 2.0)&quot;&gt;Sherlock Holmes by spacebarpark (CC BY-NC-ND 2.0)&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;i-think-courage-can-help&quot;&gt;I think Courage can help!&lt;/h1&gt;
+&lt;p&gt;Courage is interestingly a mindset we strongly associate with traditional leadership but one which doesn’t get too much attention when discussing product team leadership.&lt;/p&gt;
+
+&lt;p&gt;A curious product team will have gathered lots of context about the world, rules governing the stimuli you have observed and reactions you think they cause. You form different hypotheses about what to do, but which one do you pick? Getting started can be really hard, often paralysing.&lt;/p&gt;
+
+&lt;p&gt;When I started to learn about product discovery, I assumed that somebody, somewhere had the secret for choosing the right idea to work on, that the next book would contain a formula for always making the right choice on what to build. When we put the company’s money, our colleagues’ time, and perhaps our own reputation on the line, it is easy to feel the need for that kind of security. A process or magic spreadsheet we can point to and blame. I think that convincing ourselves that there is any way to know what is right, and putting all our chips on the sure win, is the most irresponsible thing a Product Manager can do.&lt;/p&gt;
+
+&lt;p&gt;We are frequently seen as the representatives of “the business” to our teams so let’s take a lesson from the business world: A serious investor would never think about putting all their money on a single idea. They budget to ensure they have enough smaller amounts of money to split across multiple investments. Probabilistically, a single bet means we are either right or wrong (given our misplaced self-confidence, we are certain it will be the former), but multiple bets means we will most likely be wrong a couple of times. Our egos combined with the way we set up organisations mean that we focus more on the likelihood of being caught wrong than the increased likelihood of being right at least once. However, if we budgeted correctly, winning even once means that we can now place our next bets informed by what we now know (of course applying the same tactic to this new refined space). It takes courage to plan to be wrong.&lt;/p&gt;
+
+&lt;p&gt;We also have a tendency to strive for perfection. This insatiable need can drive us to constantly improve, but can also hold us back from moving forward and getting value from the time and energy we have invested so far. We have an obligation to our users and our organisation to make things better. A solution you can provide today, that improves people’s current way of doing things, is better than a perfect solution that may never materialise. Your duty to release is more important than a perfect portfolio. It takes courage to accept imperfection.&lt;/p&gt;
+
+&lt;p&gt;The lessons an imperfect solution provide us can be so much deeper than researching hypothetical use cases. Who really uses your product, how are they using it, where does it fall short? There is ample information to help you satiate your curiosity after releasing, but you need to take the first step into the dark (or at least badly illuminated) to access it.&lt;/p&gt;
+
+&lt;p&gt;Of course, courage comes with its dysfunctions too. It is great to push forward, but if you are always blindly charging forward, never taking time to look around and assess how you are doing, it is no longer courage that you are exhibiting. You are at best, being over confident, or at worst, in a state of panic. What can help you avoid going overboard? You got it, a healthy dose of curiosity.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;../../images/posts/2016-03-03-courage.jpg&quot; /&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://flic.kr/p/7VVCsZ&quot; title=&quot;That’s one small step for a man, one giant leap for mankind by Shurik_13 (CC BY-NC-ND 2.0)&quot;&gt;That’s one small step for a man, one giant leap for mankind by Shurik_13 (CC BY-NC-ND 2.0)&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;So how does this all come together? Disciplines aligned with discovery and delivery “modes” of product development have done a lot to provide tools to deepen our capabilities in each of these areas. As a product manager, your job is not to treat these as modes. In fact make sure your team is never in just one at the same time. Instead embody these mindsets, move your team forward with courage and keep them curious!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/product-management-mindsets/&quot;&gt;Critical, Complimentary Product Management Mindsets&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on March 03, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
 
 <entry>
   <title type="html"><![CDATA[Managing Detail in Product Development]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/managing-detail-in-product-development/" />
-  <id>http://localhost:4000/articles/managing-detail-in-product-development</id>
+  <link rel="alternate" type="text/html" href="/articles/managing-detail-in-product-development/" />
+  <id>/articles/managing-detail-in-product-development</id>
   <updated>2015-03-29T00:00:00-00:00</updated>
   <published>2015-03-29T00:00:00+01:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri>http://localhost:4000</uri>
-    <email>me@sebcachia.com</email>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;Creating a product is exciting! Some magic spark of insight sets you and your team off on a journey of discovery and engineering culminating in the release of your creation out into the wild. Everyone in your team is naturally pulled forwards, refining the product in the context of their specific discipline. But given you work with a variety of different experts, refinement probably means something very different to each one of them. &lt;/p&gt;
@@ -34,35 +94,31 @@
 
 &lt;p&gt;I have been thinking about this topic a fair bit recently when I came across this great &lt;a href=&quot;http://www.mindtheproduct.com/2015/03/want-improve-design-process-question-fidelity/&quot;&gt;article&lt;/a&gt;  by John Willshire that aligned well with recent discussions I had with the rest of my team. I will be adopting the language and model described by John over the rest of this post.&lt;/p&gt;
 
-&lt;p&gt;A product can evolve in two directions; fidelity and resolution. If a product exists to serve its users, then fidelity descibes the level of detail to which you understand them. You increase this through discovery; talking to them, studying their needs and patterns, and testing your product against them as it evolves. On the other hand, resolution describes the detail of your solution and can evolve from a static napkin drawing to a well architected, fully coded product.&lt;/p&gt;
+&lt;p&gt;A product can evolve in two directions; fidelity and resolution. If a product exists to serve its users, then fidelity describes the level of detail to which you understand them. You increase this through discovery; talking to them, studying their needs and patterns, and testing your product against them as it evolves. On the other hand, resolution describes the detail of your solution and can evolve from a static napkin drawing to a well architected, fully coded product.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;../../images/posts/2015-03-29-pm_detail.png&quot; /&gt;
   &lt;figcaption&gt;Based on &lt;a href=&quot;http://www.mindtheproduct.com/2015/03/want-improve-design-process-question-fidelity/&quot; title=&quot;Fidelity vs Resolution&quot;&gt;Fidelity vs Resolution&lt;/a&gt; by &lt;a href=&quot;http://smithery.co/about/&quot; title=&quot;Fidelity vs Resolution&quot;&gt;John Willshire&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to mantain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. &lt;/p&gt;
+&lt;p&gt;A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to maintain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. &lt;/p&gt;
 
-&lt;p&gt;In my next post I will talk through my thoughts on guiding a product team through refining resolution and fidelity, in the meantime I would love to hear how you and your team manage this process.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/managing-detail-in-product-development/&quot;&gt;Managing Detail in Product Development&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://localhost:4000&quot;&gt;sebcachia.com&lt;/a&gt; on March 29, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/articles/managing-detail-in-product-development/&quot;&gt;Managing Detail in Product Development&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on March 29, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Regaining Context - The new Product Manager]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/regaining-context/" />
-  <id>http://localhost:4000/articles/regaining-context</id>
+  <link rel="alternate" type="text/html" href="/articles/regaining-context/" />
+  <id>/articles/regaining-context</id>
   <updated>2015-02-02T00:00:00-00:00</updated>
   <published>2015-02-02T00:00:00+01:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri>http://localhost:4000</uri>
-    <email>me@sebcachia.com</email>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;So you’ve been working as a Product Manager for a while now, you feel connected to your users, your team considers you to be “the one with the answers”. The right opportunity presents itself and you move on to a new company, working on a new product in a potentially different market. All of a sudden you are the one with loads of questions and no answers.&lt;/p&gt;
@@ -91,24 +147,22 @@
 
 &lt;p&gt;&lt;strong&gt;PS&lt;/strong&gt;: Prezi is looking for great Product people, why not &lt;a href=&quot;http://prezi.com/jobs/departments/product-design-ux?ref=54988&quot;&gt;join us?&lt;/a&gt;?&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/regaining-context/&quot;&gt;Regaining Context - The new Product Manager&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://localhost:4000&quot;&gt;sebcachia.com&lt;/a&gt; on February 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/articles/regaining-context/&quot;&gt;Regaining Context - The new Product Manager&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on February 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Getting started at Prezi]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/getting-started-at-prezi/" />
-  <id>http://localhost:4000/articles/getting-started-at-prezi</id>
+  <link rel="alternate" type="text/html" href="/articles/getting-started-at-prezi/" />
+  <id>/articles/getting-started-at-prezi</id>
   <updated>2014-10-19T00:00:00-00:00</updated>
   <published>2014-10-19T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri>http://localhost:4000</uri>
-    <email>me@sebcachia.com</email>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
   </author>
   <content type="html">
     &lt;blockquote&gt;
@@ -124,16 +178,16 @@
 
 &lt;p&gt;This story starts early this summer, when after a number of online conversations, I was invited to visit Prezi in Budapest for a week on assessment. The preceding conversations did a good job of raising my expectations; everybody visibly enjoyed what they did and conversations with them were both challenging and interesting. I am happy to say I was not let down.&lt;/p&gt;
 
-&lt;p&gt;Prezillians (the Prezi family) are responsible for Prezi’s success and culture, so finding the right people is super important. Assessments are Prezi’s way of ensuring the right fit. I had three days to explore an area of the product and recommend improvements to it. Three days might feel like a lot of time for an interview, but I promise you it was worthwhile. While working on the task, I had enough time to really dive in to the company. Although technically it was me that was on assessment, I was assessing Prezi just as much, answering the questions I really cared about such as: “Would I be able to learn from my team?”, “Would I enjoy spending time with them?”, “What are the biggest challenges they are facing?” and “Can I bring value to the company?”. Everybody I encountered was impressively welcoming and freely gave up their time to meet up with me as well as help me with their areas of expertise. &lt;/p&gt;
+&lt;p&gt;Prezillians (the Prezi family) are responsible for Prezi’s success and culture, so finding the right people is super important. Assessments are Prezi’s way of ensuring the right fit. I had three days to explore an area of the product and recommend improvements to it. Three days might feel like a lot of time for an interview, but I promise you it was worthwhile. While working on the task, I had enough time to really dive in to the company. Although technically it was me that was on assessment, I was assessing Prezi just as much, answering the questions I really cared about such as: “Would I be able to learn from my team?”, “Would I enjoy spending time with them?”, “What are the biggest challenges they are facing?” and “Can I bring value to the company?”. Everybody I encountered was impressively welcoming and freely gave up their time to meet up with me as well as help me with their areas of expertise.&lt;/p&gt;
 
-&lt;p&gt;Working on my assessment, I had access to all the resources I needed, from a company laptop to the data that would help me take the right decisions. I was invited to have lunch with different people, dinner and drinks with my team and I was even invited over to dinner at a co-workers home. Everyone I met took an interest in learning more about me, professionally and personally, and freely shared more about themselves. By the end of the week, I had received an offer to join Prezi. &lt;/p&gt;
+&lt;p&gt;Working on my assessment, I had access to all the resources I needed, from a company laptop to the data that would help me take the right decisions. I was invited to have lunch with different people, dinner and drinks with my team and I was even invited over to dinner at a co-workers home. Everyone I met took an interest in learning more about me, professionally and personally, and freely shared more about themselves. By the end of the week, I had received an offer to join Prezi.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;../../images/posts/2014-10-18-budapest.jpg&quot; /&gt;
   &lt;figcaption&gt;Chain Bridge at night by Marica (CC BY 4.0)&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I had the weekend to think about it and was joined in Budapest by my wife Marica to spend some time exploring the city. I was completely sold on Prezi, so now we had to see if we could envision a life together in Budapest. We walked around, explored different neighbourhoods, rested in City Park and talked a lot about our options. The next Monday, I got back to Prezi with my answer, and we started planning our relocation.  &lt;/p&gt;
+&lt;p&gt;I had the weekend to think about it and was joined in Budapest by my wife Marica to spend some time exploring the city. I was completely sold on Prezi, so now we had to see if we could envision a life together in Budapest. We walked around, explored different neighbourhoods, rested in City Park and talked a lot about our options. The next Monday, I got back to Prezi with my answer, and we started planning our relocation.&lt;/p&gt;
 
 &lt;p&gt;The month leading up to my move flew past and before I knew it I was on a plane back to Budapest. I got to spend a few days meeting my team while taking care of some paperwork, but I was soon on a plane to San Francisco. Prezi has two amazing offices, one in Budapest and the other in San Francisco. I would be working closely with our San Francisco based Sales team, so a trip to sync up with them helped us kick things off on the right foot. Trips between offices are not uncommon, in fact all Prezillians get to spend a month every year working from the other office, helping keep the feeling of one company. Although I was only in San Francisco for a week I made the most of my time, visiting the offices of a number of tech companies and attending meetups on Product Management and UX.&lt;/p&gt;
 
@@ -142,7 +196,7 @@
   &lt;figcaption&gt;Prezi&#39;s SF Office&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;As a Product Manager, understanding your target users and the ecosystem of your product are prerequisites to success, so being new to Prezi, I knew I needed to quickly immerse myself in the space. Happily, Prezi understands the importance of understanding our users, and dedicates the people and resources necessary to achieve this. This made my journey of discovery much easier, as I was able to join a research trip to Chicago and experience our users first hand. &lt;/p&gt;
+&lt;p&gt;As a Product Manager, understanding your target users and the ecosystem of your product are prerequisites to success, so being new to Prezi, I knew I needed to quickly immerse myself in the space. Happily, Prezi understands the importance of understanding our users, and dedicates the people and resources necessary to achieve this. This made my journey of discovery much easier, as I was able to join a research trip to Chicago and experience our users first hand.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;../../images/posts/2014-10-18-chicago.jpg&quot; /&gt;
@@ -157,24 +211,22 @@
 
 &lt;p&gt;Did I mention &lt;a href=&quot;http://www.prezi.com/jobs&quot;&gt;we are hiring&lt;/a&gt;?&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/getting-started-at-prezi/&quot;&gt;Getting started at Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://localhost:4000&quot;&gt;sebcachia.com&lt;/a&gt; on October 19, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/articles/getting-started-at-prezi/&quot;&gt;Getting started at Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on October 19, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Stretching (or zooming?) into Prezi]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/stretching-into-prezi/" />
-  <id>http://localhost:4000/articles/stretching-into-prezi</id>
+  <link rel="alternate" type="text/html" href="/articles/stretching-into-prezi/" />
+  <id>/articles/stretching-into-prezi</id>
   <updated>2014-08-11T00:00:00-00:00</updated>
   <published>2014-08-11T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri>http://localhost:4000</uri>
-    <email>me@sebcachia.com</email>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;I seem to derive some kind of masochistic joy from pushing myself beyond limits I feel I have. Sometimes this push takes the form of a deep dive into something completely new, and sometimes it is more of a gradual stretch beyond my limits. Either way, I have found that when I stop feeling the challenge, I quickly become bored and unhappy.&lt;/p&gt;
@@ -188,24 +240,22 @@
 
 &lt;p&gt;In the interest of familiarising myself with the target market as quickly as possible, I will be spending my first to weeks in the US, one in Prezi’s San Francisco office and the other on a research field trip to Chicago. Afterwords I return to Budapest, Hungary where my parallel challenge of relocating begins.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/stretching-into-prezi/&quot;&gt;Stretching (or zooming?) into Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://localhost:4000&quot;&gt;sebcachia.com&lt;/a&gt; on August 11, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/articles/stretching-into-prezi/&quot;&gt;Stretching (or zooming?) into Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on August 11, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Learning from Antipatterns]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/learning-from-antipatterns/" />
-  <id>http://localhost:4000/articles/learning-from-antipatterns</id>
+  <link rel="alternate" type="text/html" href="/articles/learning-from-antipatterns/" />
+  <id>/articles/learning-from-antipatterns</id>
   <updated>2014-06-05T00:00:00-00:00</updated>
   <published>2014-06-05T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri>http://localhost:4000</uri>
-    <email>me@sebcachia.com</email>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;As a full time University student, one of my lecturers once told the class to do ourselves, our future employers and co-workers a favour, and get ourselves an education. The context of this statement was a discussion about professional programmers who through lack of knowledge wrote code that naively approached problems that were in fact &lt;a href=&quot;http://en.wikipedia.org/wiki/NP-hard&quot;&gt;NP-Hard&lt;/a&gt;. At the time I thought nothing further of it, but as I started working I quickly realised the value of the statement.&lt;/p&gt;
@@ -231,24 +281,22 @@
 
 &lt;p&gt;So, when I point out that your approach is a known Antipattern and explain why it will unlikely result in success, don’t tell me that this is the real world and that is the way things get done here, &lt;strong&gt;shut up and read a book&lt;/strong&gt;. Come back when you have something to discuss.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/learning-from-antipatterns/&quot;&gt;Learning from Antipatterns&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://localhost:4000&quot;&gt;sebcachia.com&lt;/a&gt; on June 05, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/articles/learning-from-antipatterns/&quot;&gt;Learning from Antipatterns&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on June 05, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Defining Product Management]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/defining-product-management/" />
-  <id>http://localhost:4000/articles/defining-product-management</id>
+  <link rel="alternate" type="text/html" href="/articles/defining-product-management/" />
+  <id>/articles/defining-product-management</id>
   <updated>2014-05-30T00:00:00-00:00</updated>
   <published>2014-05-30T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri>http://localhost:4000</uri>
-    <email>me@sebcachia.com</email>
+    <uri></uri>
+    <email>me@ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;During my time working in Product Management, I have encountered a couple of different definitions of what a Product Manager should do. Probably the best place to start as I begin to blog about the topic, is to provide my own definition. It is worth mentioning that I do not consider this to be the “correct” definition of Product Management. Indeed I believe there is no such thing as a “correct” definition as the implementation of the role should vary to some degree from person to person based on their capabilities and style. This is mine.&lt;/p&gt;
@@ -266,7 +314,7 @@
 &lt;p&gt;Finally, understand the technicalities of your industry and the problem domain. If you are building software, then you should know a thing or two about programming, if your product tackles personal finance then you should know a thing or two about banking. This is not to say that you should try and do everybody’s job, but make sure you are not the guy that always needs everything explained to them (that is not so say you shouldn’t ask questions. Actually, ask lots of questions).&lt;/p&gt;
 
 &lt;h1 id=&quot;make-your-product-successful&quot;&gt;Make your product successful&lt;/h1&gt;
-&lt;p&gt;A Product Manager should strive to make their product successful. Most Product Managers will operate in the context of an organisation that has set a goal driving the existence of their product. This goal might be part of the organisation’s longer term strategy, or it might be a shorter term, tactical goal. Meeting this goal is realistically one of the first measures of success. &lt;/p&gt;
+&lt;p&gt;A Product Manager should strive to make their product successful. Most Product Managers will operate in the context of an organisation that has set a goal driving the existence of their product. This goal might be part of the organisation’s longer term strategy, or it might be a shorter term, tactical goal. Meeting this goal is realistically one of the first measures of success.&lt;/p&gt;
 
 &lt;p&gt;Further defining success and measuring against that definition is the next step for a Product Manager and will generally involve exploring one or more business models. If revenue (direct or indirect) is the driving force then projections and financial models should tie in to concrete quantifiable goals to help ensure success. Revenue might not always be the driving force though: influence and impact could be two other goals for a product. Sometimes products are not successful. Catching failure (and learning from it) is another vital function of the Product Manager, even if it sometimes involves rowing against the current.&lt;/p&gt;
 
@@ -284,7 +332,7 @@
 &lt;h1 id=&quot;fill-in-the-gaps&quot;&gt;Fill in the gaps&lt;/h1&gt;
 &lt;p&gt;Found something not covered above, not covered by your team, that needs to be done to make the product successful? Yep that is your responsibility. Find somebody to do it or if you can, do it yourself. This might sometimes involve being very hands on filling a gap in the organisation, helping an overworked team and sometimes it involves bringing food when teams work through the weekends or doing the boring paperwork. If you identified the gap then you are probably the best person to fill it. Just don’t overwork yourself, there are after all only 24 hours in a day.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/defining-product-management/&quot;&gt;Defining Product Management&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://localhost:4000&quot;&gt;sebcachia.com&lt;/a&gt; on May 30, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/articles/defining-product-management/&quot;&gt;Defining Product Management&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on May 30, 2014.&lt;/p&gt;
   </content>
 </entry>
 
