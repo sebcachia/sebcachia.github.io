@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">sebcachia.com</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2016-03-27T20:55:28+02:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://sebcachia.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://sebcachia.com" />
+<updated>2016-03-28T01:38:32+02:00</updated>
+<id>http://sebcachia.com/</id>
 <author>
   <name>Sebastian Cachia</name>
-  <uri>/</uri>
+  <uri>http://sebcachia.com/</uri>
   <email>me@ mydomain .com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Critical, Complimentary Product Management Mindsets]]></title>
-  <link rel="alternate" type="text/html" href="/articles/product-management-mindsets/" />
-  <id>/articles/product-management-mindsets</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/product-management-mindsets/" />
+  <id>http://sebcachia.com/articles/product-management-mindsets</id>
   <updated>2016-03-03T00:00:00-00:00</updated>
   <published>2016-03-03T00:00:00+01:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -70,21 +70,21 @@
 
 &lt;p&gt;So how does this all come together? Disciplines aligned with discovery and delivery “modes” of product development have done a lot to provide tools to deepen our capabilities in each of these areas. As a product manager, your job is not to treat these as modes. In fact make sure your team is never in just one at the same time. Instead embody these mindsets, move your team forward with courage and keep them curious!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/product-management-mindsets/&quot;&gt;Critical, Complimentary Product Management Mindsets&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on March 03, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/product-management-mindsets/&quot;&gt;Critical, Complimentary Product Management Mindsets&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on March 03, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Managing Detail in Product Development]]></title>
-  <link rel="alternate" type="text/html" href="/articles/managing-detail-in-product-development/" />
-  <id>/articles/managing-detail-in-product-development</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/managing-detail-in-product-development/" />
+  <id>http://sebcachia.com/articles/managing-detail-in-product-development</id>
   <updated>2015-03-29T00:00:00-00:00</updated>
   <published>2015-03-29T00:00:00+01:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -103,21 +103,21 @@
 
 &lt;p&gt;A good team travels the journey through increasing detail in fidelity and resolution together. A great team understands the need to balance between the two. It is however ultimately your job to maintain this balance. There are also no hard, generalised rules around this, you need to understand the specific context of your product, team and organisation and make the right choice. &lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/managing-detail-in-product-development/&quot;&gt;Managing Detail in Product Development&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on March 29, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/managing-detail-in-product-development/&quot;&gt;Managing Detail in Product Development&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on March 29, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Regaining Context - The new Product Manager]]></title>
-  <link rel="alternate" type="text/html" href="/articles/regaining-context/" />
-  <id>/articles/regaining-context</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/regaining-context/" />
+  <id>http://sebcachia.com/articles/regaining-context</id>
   <updated>2015-02-02T00:00:00-00:00</updated>
   <published>2015-02-02T00:00:00+01:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -147,21 +147,21 @@
 
 &lt;p&gt;&lt;strong&gt;PS&lt;/strong&gt;: Prezi is looking for great Product people, why not &lt;a href=&quot;http://prezi.com/jobs/departments/product-design-ux?ref=54988&quot;&gt;join us?&lt;/a&gt;?&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/regaining-context/&quot;&gt;Regaining Context - The new Product Manager&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on February 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/regaining-context/&quot;&gt;Regaining Context - The new Product Manager&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on February 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Getting started at Prezi]]></title>
-  <link rel="alternate" type="text/html" href="/articles/getting-started-at-prezi/" />
-  <id>/articles/getting-started-at-prezi</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/getting-started-at-prezi/" />
+  <id>http://sebcachia.com/articles/getting-started-at-prezi</id>
   <updated>2014-10-19T00:00:00-00:00</updated>
   <published>2014-10-19T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -211,21 +211,21 @@
 
 &lt;p&gt;Did I mention &lt;a href=&quot;http://www.prezi.com/jobs&quot;&gt;we are hiring&lt;/a&gt;?&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/getting-started-at-prezi/&quot;&gt;Getting started at Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on October 19, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/getting-started-at-prezi/&quot;&gt;Getting started at Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on October 19, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Stretching (or zooming?) into Prezi]]></title>
-  <link rel="alternate" type="text/html" href="/articles/stretching-into-prezi/" />
-  <id>/articles/stretching-into-prezi</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/stretching-into-prezi/" />
+  <id>http://sebcachia.com/articles/stretching-into-prezi</id>
   <updated>2014-08-11T00:00:00-00:00</updated>
   <published>2014-08-11T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -240,21 +240,21 @@
 
 &lt;p&gt;In the interest of familiarising myself with the target market as quickly as possible, I will be spending my first to weeks in the US, one in Prezi’s San Francisco office and the other on a research field trip to Chicago. Afterwords I return to Budapest, Hungary where my parallel challenge of relocating begins.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/stretching-into-prezi/&quot;&gt;Stretching (or zooming?) into Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on August 11, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/stretching-into-prezi/&quot;&gt;Stretching (or zooming?) into Prezi&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on August 11, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Learning from Antipatterns]]></title>
-  <link rel="alternate" type="text/html" href="/articles/learning-from-antipatterns/" />
-  <id>/articles/learning-from-antipatterns</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/learning-from-antipatterns/" />
+  <id>http://sebcachia.com/articles/learning-from-antipatterns</id>
   <updated>2014-06-05T00:00:00-00:00</updated>
   <published>2014-06-05T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -281,21 +281,21 @@
 
 &lt;p&gt;So, when I point out that your approach is a known Antipattern and explain why it will unlikely result in success, don’t tell me that this is the real world and that is the way things get done here, &lt;strong&gt;shut up and read a book&lt;/strong&gt;. Come back when you have something to discuss.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/learning-from-antipatterns/&quot;&gt;Learning from Antipatterns&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on June 05, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/learning-from-antipatterns/&quot;&gt;Learning from Antipatterns&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on June 05, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Defining Product Management]]></title>
-  <link rel="alternate" type="text/html" href="/articles/defining-product-management/" />
-  <id>/articles/defining-product-management</id>
+  <link rel="alternate" type="text/html" href="http://sebcachia.com/articles/defining-product-management/" />
+  <id>http://sebcachia.com/articles/defining-product-management</id>
   <updated>2014-05-30T00:00:00-00:00</updated>
   <published>2014-05-30T00:00:00+02:00</published>
   
   <author>
     <name>Sebastian Cachia</name>
-    <uri></uri>
+    <uri>http://sebcachia.com</uri>
     <email>me@ mydomain .com</email>
   </author>
   <content type="html">
@@ -332,7 +332,7 @@
 &lt;h1 id=&quot;fill-in-the-gaps&quot;&gt;Fill in the gaps&lt;/h1&gt;
 &lt;p&gt;Found something not covered above, not covered by your team, that needs to be done to make the product successful? Yep that is your responsibility. Find somebody to do it or if you can, do it yourself. This might sometimes involve being very hands on filling a gap in the organisation, helping an overworked team and sometimes it involves bringing food when teams work through the weekends or doing the boring paperwork. If you identified the gap then you are probably the best person to fill it. Just don’t overwork yourself, there are after all only 24 hours in a day.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/defining-product-management/&quot;&gt;Defining Product Management&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;&quot;&gt;sebcachia.com&lt;/a&gt; on May 30, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://sebcachia.com/articles/defining-product-management/&quot;&gt;Defining Product Management&lt;/a&gt; was originally published by Sebastian Cachia at &lt;a href=&quot;http://sebcachia.com&quot;&gt;sebcachia.com&lt;/a&gt; on May 30, 2014.&lt;/p&gt;
   </content>
 </entry>
 
