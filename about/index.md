@@ -26,4 +26,4 @@ I love being outdoors! I grew up (with my now wife) in Scouts and enjoy hiking, 
 This blog is mostly intended as a repository for posts tackling my professional interests, though I might occasionally deviate into any of my other current (or future) interests.
 
 ### Getting in Touch
-If you know me professionally, please connect to me on [LinkedIn](http://linkedin.com/in/sebcachia), if you know me personally, add me on [Facebook](http://facebook.com/sebcachia). If we have never met, please connect on [Twitter](http://twitter.com/sebcachia) or send me a [short](http://five.sentenc.es/) email on me@thisdomain.com.
+If you know me professionally, please connect to me on [LinkedIn](http://linkedin.com/in/sebcachia), if you know me personally, add me on [Facebook](http://facebook.com/sebcachia). If we have never met, please connect on [Twitter](http://twitter.com/sebcachia) or send me a [short](http://five.sentenc.es/) email on mail@thisdomain.com.
