@@ -4,12 +4,12 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://sebcachia.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://sebcachia.com" />
-<updated>2016-04-04T21:04:04+02:00</updated>
+<updated>2016-04-06T23:12:58+02:00</updated>
 <id>http://sebcachia.com/</id>
 <author>
   <name>Sebastian Cachia</name>
   <uri>http://sebcachia.com/</uri>
-  <email>me@ mydomain .com</email>
+  <email>mail @ mydomain .com</email>
 </author>
 
 
@@ -23,7 +23,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;Your product team has been tasked with a particular project; perhaps the business identified an important business metric that it wants improved, perhaps it thinks that solving a particular user problem will help move the organisation forward. Either way, your team now needs to decide how to kick off and deliver this new project. Instructions are probably vague, knowledge about the problem space is too, so how do you get started, and more importantly how do you make sure you end up being successful?&lt;/p&gt;
@@ -85,7 +85,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;Creating a product is exciting! Some magic spark of insight sets you and your team off on a journey of discovery and engineering culminating in the release of your creation out into the wild. Everyone in your team is naturally pulled forwards, refining the product in the context of their specific discipline. But given you work with a variety of different experts, refinement probably means something very different to each one of them. &lt;/p&gt;
@@ -118,7 +118,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;So you’ve been working as a Product Manager for a while now, you feel connected to your users, your team considers you to be “the one with the answers”. The right opportunity presents itself and you move on to a new company, working on a new product in a potentially different market. All of a sudden you are the one with loads of questions and no answers.&lt;/p&gt;
@@ -162,7 +162,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;blockquote&gt;
@@ -226,7 +226,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;I seem to derive some kind of masochistic joy from pushing myself beyond limits I feel I have. Sometimes this push takes the form of a deep dive into something completely new, and sometimes it is more of a gradual stretch beyond my limits. Either way, I have found that when I stop feeling the challenge, I quickly become bored and unhappy.&lt;/p&gt;
@@ -255,7 +255,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;As a full time University student, one of my lecturers once told the class to do ourselves, our future employers and co-workers a favour, and get ourselves an education. The context of this statement was a discussion about professional programmers who through lack of knowledge wrote code that naively approached problems that were in fact &lt;a href=&quot;http://en.wikipedia.org/wiki/NP-hard&quot;&gt;NP-Hard&lt;/a&gt;. At the time I thought nothing further of it, but as I started working I quickly realised the value of the statement.&lt;/p&gt;
@@ -296,7 +296,7 @@
   <author>
     <name>Sebastian Cachia</name>
     <uri>http://sebcachia.com</uri>
-    <email>me@ mydomain .com</email>
+    <email>mail @ mydomain .com</email>
   </author>
   <content type="html">
     &lt;p&gt;During my time working in Product Management, I have encountered a couple of different definitions of what a Product Manager should do. Probably the best place to start as I begin to blog about the topic, is to provide my own definition. It is worth mentioning that I do not consider this to be the “correct” definition of Product Management. Indeed I believe there is no such thing as a “correct” definition as the implementation of the role should vary to some degree from person to person based on their capabilities and style. This is mine.&lt;/p&gt;
