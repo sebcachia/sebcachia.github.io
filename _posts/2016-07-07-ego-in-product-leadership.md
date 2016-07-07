@@ -21,26 +21,26 @@ On the other hand, in a worldview driven by outcomes, it is all about having imp
 
 It is not all doom and gloom though. A few behaviours could help us not only curb our egos and make our teams more likely to succeed.
 
-##Encourage mindsets, don’t enforce actions
+## Encourage mindsets, don’t enforce actions
 You read the right books, you built the right experience, you think you know what needs to be done to deliver products successfully. It is so easy to get too absorbed in the tactical day to day and just push for the actions you feel will lead to a great product… don’t! Instead focus on sharing the mindsets that lead you to think those actions are the right ones. What underlying truth drives that action? Share the experience, share the knowledge and let others discover their own best way to implement that in practice.
 
-##Lead by example, embody culture and vision
+## Lead by example, embody culture and vision
 Everyone in your team should embody and contribute to your organisation’s culture and vision. You don’t stand a chance of encouraging that behaviour if you cease to exhibit it yourself. Understand the explicit values and implicit culture of your organisation and bring it into your team. Help your team define its own culture. Understand the broad strokes vision of your organisation and actively contribute towards it. Be active in defining the vision for your own part of the product. If everybody is taking decisions, that includes you too! Just remember leave space for everyone else.
 
-##Ask questions, don’t give answers
+## Ask questions, don’t give answers
 Whenever asked a question, you probably ask yourself a lot of other questions, in your head, to help guide you to an answer. Rather than just outputting an answer, share the questions and reasoning that led you to the answer. Better yet, share the questions and hold back on the answer. You should help the team by providing knowledge and context, get them to help you connect the dots and find solutions, they can probably see things in a way you can’t.
 
-##Contribute by more than just talking
+## Contribute by more than just talking
 Don’t just be the bureaucrat that does the talking and writes the document. If everyone shares the load of taking decisions, you should share in doing whatever it takes to make the product successful. Take an interest in the technology, understand the design, talk to users, test the product, answer support emails, write product or marketing copy, sit in sales calls, bring pizza, schedule team building dinners, check if the team area has run out of whiteboard markers. You get the idea.
 
-##Share your lessons, especially your failures
+## Share your lessons, especially your failures
 You know that driving outcomes and having impact will take you along a path of experimentation and learning. Your best lessons will come from your failures and they will make you all the more likely to eventually succeed. Share your lessons, especially your failures. Talk to your team about them and share them with other teams. It is not about you and it is not about your success or failure, it is about sharing important lessons for your organisation to succeed.
 
-##Think about the whole product, help other teams
+## Think about the whole product, help other teams
 While eagerly trying to work with your team to maximise the impact you have, it is easy to forget that your users don’t care about your team. They don’t care about any of your teams, or your organisation, they care about their goals, their jobs and their tasks. Don’t let your desire for you and your team to look good keep your users from being successful. If another team is in a better situation to have the right impact, help them out.
 
-##It’s not about you, it’s about your users
+## It’s not about you, it’s about your users
 Take time to remind yourself why you are in this business, your users. They don’t care about your ego and how it stings when you are wrong, they care about their goals, their jobs and their problems. Be open to anything that improves their situation, even if that means that in the short term it feels like you took a hit. Maybe the best way to accomplish this is to spend the maximum time you can with them. Join your UX team in their research calls, help support to answer tickets and join sales to understand questions asked by new prospects. It is about them, not you.
 
-##Be grateful
+## Be grateful
 Finally, remember to express gratitude to your team for their work, you can’t do it without them. Remember to feel gratitude towards your users, they are the reason you are doing this.
