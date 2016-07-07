@@ -11,7 +11,12 @@ share: true
 
 Ego in Product Leadership Is Product Management one of those jobs that naturally fuels our egos? What impact do our egos have on the organisations we work in? As Product Managers, surely our behaviours ripple throughout the company to have profound impact on operations and culture. 
 
-What if product leaders thought of themselves, not as mini-CEOs, but as coaches and contributors? How can we be catalysts for a great culture, where our teams are empowered and autonomous? How can we help our teams take decisions based on what is best for our users and the organisation instead of feeding the hunger and fears of our egos? While much of the following is based on my own experience as a Product Manager within software teams, I guess it is quite applicable to similar roles in other organisations.
+What if product leaders thought of themselves, not as mini-CEOs, but as coaches and contributors? How can we be catalysts for a great culture, where our teams are empowered and autonomous? How can we help our teams take decisions based on what is best for our users and the organisation instead of trying to be heroes? While much of the following is based on my own experience as a Product Manager within software teams, I guess it is quite applicable to similar roles in other organisations.
+
+<figure>
+  <img src="../../images/posts/2016-07-07-heroes.jpg">
+  <figcaption><a href="https://flic.kr/p/juhBZV" title="Lego DC Superheroes by soundwave3387 (CC BY-NC-ND 2.0)">Lego DC Superheroes by soundwave3387 (CC BY-NC-ND 2.0)</a>.</figcaption>
+</figure>
 
 Years of being “the one with all the answers” makes this transition challenging. Many engineers I have worked with would put indecisiveness at the top of a list of undesirable Product Manager traits. But having experienced specialists come to YOU with their questions is a great ego boost. We are the ones with the big picture, the visionaries and the strategists. In practice this often results in us becoming bottlenecks and micro-managers. Worse yet, it drives us to take any decision, even a sub-optimal one, rather than giving our teams the opportunity to explore the ambiguity of a situation together.
 
