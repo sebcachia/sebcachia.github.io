@@ -4,7 +4,7 @@ title: Ego in Product Leadership
 excerpt: "What if product leaders thought of themselves, not as mini-CEOs, but as coaches and contributors?"
 modified: 2016-07-07
 category: articles
-tags: [product management, ego, mindset]
+tags: [product management, ego, mindset, leadership]
 comments: true  
 share: true
 ---
