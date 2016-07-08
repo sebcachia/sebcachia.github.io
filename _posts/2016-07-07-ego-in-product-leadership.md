@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-Ego in Product Leadership Is Product Management one of those jobs that naturally fuels our egos? What impact do our egos have on the organisations we work in? As Product Managers, surely our behaviours ripple throughout the company to have profound impact on operations and culture. 
+Is Product Management one of those jobs that naturally fuels our egos? What impact do our egos have on the organisations we work in? As Product Managers, surely our behaviours ripple throughout the company to have profound impact on operations and culture. 
 
 What if product leaders thought of themselves, not as mini-CEOs, but as coaches and contributors? How can we be catalysts for a great culture, where our teams are empowered and autonomous? How can we help our teams take decisions based on what is best for our users and the organisation instead of trying to be heroes? While much of the following is based on my own experience as a Product Manager within software teams, I guess it is quite applicable to similar roles in other organisations.
 
