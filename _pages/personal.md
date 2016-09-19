@@ -3,6 +3,8 @@ layout: archive
 author_profile: true
 permalink: /personal/
 comments: false
+header:
+  image: homepage1.png
 ---
 
 The posts here reflect my personal life. This will be a dumping ground for anything from short pieces of writing, images or longer essays on topics of personal interest.
