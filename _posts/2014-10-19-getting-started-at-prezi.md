@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: single
 title: Getting started at Prezi
 excerpt: "Zoom!"
 modified: 2014-10-19
-category: articles
+category: work
 tags: [product management, Prezi, Budapest]
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/getting-started-at-prezi"
 ---
 
 > tl;dr: It has been awesome, [we are hiring](http://www.prezi.com/jobs).

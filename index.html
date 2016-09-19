@@ -1,14 +1,14 @@
 ---
-layout: page
-title: Latest Posts
-description: "Musings of a Geek. Personal website and blog of Sebastian Cachia"
-tags: [sebcachia, Sebastian Cachia, blog, website, geek]
-image:
-  feature: homepage.png
+layout: archive
+author_profile: true
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% include base_path %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
 {% endfor %}
-</ul>
+
+{% include paginator.html %}

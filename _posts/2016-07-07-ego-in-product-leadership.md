@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: single
 title: Ego in Product Leadership
 excerpt: "What if product leaders thought of themselves, not as mini-CEOs, but as coaches and contributors?"
 modified: 2016-07-07
-category: articles
+category: work
 tags: [product management, ego, mindset, leadership]
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/ego-in-product-leadership"
+
 ---
 
 Is Product Management one of those jobs that naturally fuels our egos? What impact do our egos have on the organisations we work in? As Product Managers, surely our behaviours ripple throughout the company to have profound impact on operations and culture. 

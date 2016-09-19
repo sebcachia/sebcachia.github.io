@@ -1,13 +1,15 @@
 ---
-layout: post
+layout: single
 title: Learning from Antipatterns
 excerpt: "Antipatterns are a cheap way to learn from mistakes, somebody elses mistakes..."
 modified: 2014-06-05
-category: articles
+category: work
 tags: [product management, antipatterns]
 image:
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/learning-from-antipatterns/"
 ---
 As a full time University student, one of my lecturers once told the class to do ourselves, our future employers and co-workers a favour, and get ourselves an education. The context of this statement was a discussion about professional programmers who through lack of knowledge wrote code that naively approached problems that were in fact [NP-Hard](http://en.wikipedia.org/wiki/NP-hard). At the time I thought nothing further of it, but as I started working I quickly realised the value of the statement.
 

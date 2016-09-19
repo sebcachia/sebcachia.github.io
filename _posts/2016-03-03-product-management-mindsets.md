@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: single
 title: Critical, Complimentary Product Management Mindsets
 excerpt: "Move your team forward with courage and keep them curious!"
 modified: 2016-03-03
-category: articles
+category: work
 tags: [product management, curiosity, courage, mindset]
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/product-management-mindsets"
+
 ---
 
 Your product team has been tasked with a particular project; perhaps the business identified an important business metric that it wants improved, perhaps it thinks that solving a particular user problem will help move the organisation forward. Either way, your team now needs to decide how to kick off and deliver this new project. Instructions are probably vague, knowledge about the problem space is too, so how do you get started, and more importantly how do you make sure you end up being successful?

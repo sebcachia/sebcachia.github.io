@@ -1,7 +1,10 @@
-# Site navigation links
+# main links links
+main:
+  - title: "About"
+    url: /about/
 
-- title: About
-  url: /about/
+  - title: "Work"
+    url: /work/
 
-- title: Articles
-  url: /articles/
+  - title: "Personal"
+    url: /personal/

@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: single
 title: Stretching (or zooming?) into Prezi
 excerpt: "New adventures in Budapest!"
 modified: 2014-08-11
-category: articles
+category: work
 tags: [product management]
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/stretching-into-prezi/"
+
 ---
 I seem to derive some kind of masochistic joy from pushing myself beyond limits I feel I have. Sometimes this push takes the form of a deep dive into something completely new, and sometimes it is more of a gradual stretch beyond my limits. Either way, I have found that when I stop feeling the challenge, I quickly become bored and unhappy.
 

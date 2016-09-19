@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: single
 title: Regaining Context - The new Product Manager
 excerpt: "Getting up to speed as a Product Manager in a new job."
 modified: 2015-02-02
-category: articles
+category: work
 tags: [product management]
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/regaining-context"
 ---
 
 So you’ve been working as a Product Manager for a while now, you feel connected to your users, your team considers you to be “the one with the answers”. The right opportunity presents itself and you move on to a new company, working on a new product in a potentially different market. All of a sudden you are the one with loads of questions and no answers.

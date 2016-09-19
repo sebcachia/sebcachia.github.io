@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: single
 title: Managing Detail in Product Development
 excerpt: "Balancing discovery and delivery means balancing the detail of user fidelity and solution resolution"
 modified: 2015-03-29
-category: articles
+category: work
 tags: [product management]
 comments: true  
 share: true
+author_profile: true
+redirect_from: "/articles/managing-detail-in-product-development"
+
 ---
 
 Creating a product is exciting! Some magic spark of insight sets you and your team off on a journey of discovery and engineering culminating in the release of your creation out into the wild. Everyone in your team is naturally pulled forwards, refining the product in the context of their specific discipline. But given you work with a variety of different experts, refinement probably means something very different to each one of them. 
