@@ -9,7 +9,7 @@ tags: []
 author_profile: true
 ---
 
-Hi there! I'm Sebastian Cachia, though most people just call me Seb. I was born and raised in the European island nation of [Malta](https://maricacachia.wordpress.com/2016/03/16/malta-my-home-country/). I currently live in Budapest with my wife [Marica](http://maricacachia.wordpress.com) and our dog Flora.
+Hi there! I'm Sebastian Cachia, though most people just call me Seb. I was born and raised in the European island nation of [Malta](http://www.kitchenvoyage.com/2016/03/16/malta-my-home-country/). I currently live in Budapest with my wife [Marica](http://www.kitchenvoyage.com/) and our dog Flora.
 
 <figure>
   <img src="../images/posts/about_family.jpg">
