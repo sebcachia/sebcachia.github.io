@@ -11,7 +11,7 @@ title                    : "sebcachia.com"
 title_separator          : "-"
 name                     : "Sebastian Cachia"
 description              : "Musings of a Geek. Personal website and blog of Sebastian Cachia"
-url                      : http://sebcachia.com
+url                      : https://sebcachia.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sebcachia/sebcachia.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
