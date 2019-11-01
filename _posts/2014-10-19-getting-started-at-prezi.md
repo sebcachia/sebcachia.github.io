@@ -11,7 +11,7 @@ author_profile: true
 redirect_from: "/articles/getting-started-at-prezi"
 ---
 
-> tl;dr: It has been awesome, [we are hiring](http://www.prezi.com/jobs).
+> tl;dr: It has been awesome.
 
 As I write this, I have been at Prezi for about 2 months. On the one hand, time has just zoomed past, but on the other hand I feel settled in, as though I have been working here for much longer. Either way, it feels like an ideal time to take a snapshot of my experience so far.
 
@@ -22,9 +22,9 @@ As I write this, I have been at Prezi for about 2 months. On the one hand, time 
 
 This story starts early this summer, when after a number of online conversations, I was invited to visit Prezi in Budapest for a week on assessment. The preceding conversations did a good job of raising my expectations; everybody visibly enjoyed what they did and conversations with them were both challenging and interesting. I am happy to say I was not let down.
 
-Prezillians (the Prezi family) are responsible for Prezi's success and culture, so finding the right people is super important. Assessments are Prezi’s way of ensuring the right fit. I had three days to explore an area of the product and recommend improvements to it. Three days might feel like a lot of time for an interview, but I promise you it was worthwhile. While working on the task, I had enough time to really dive in to the company. Although technically it was me that was on assessment, I was assessing Prezi just as much, answering the questions I really cared about such as: “Would I be able to learn from my team?”, “Would I enjoy spending time with them?”, “What are the biggest challenges they are facing?” and “Can I bring value to the company?”. Everybody I encountered was impressively welcoming and freely gave up their time to meet up with me as well as help me with their areas of expertise. 
+Prezillians (the Prezi family) are responsible for Prezi's success and culture, so finding the right people is super important. Assessments are Prezi’s way of ensuring the right fit. I had three days to explore an area of the product and recommend improvements to it. Three days might feel like a lot of time for an interview, but I promise you it was worthwhile. While working on the task, I had enough time to really dive in to the company. Although technically it was me that was on assessment, I was assessing Prezi just as much, answering the questions I really cared about such as: “Would I be able to learn from my team?”, “Would I enjoy spending time with them?”, “What are the biggest challenges they are facing?” and “Can I bring value to the company?”. Everybody I encountered was impressively welcoming and freely gave up their time to meet up with me as well as help me with their areas of expertise.
 
-Working on my assessment, I had access to all the resources I needed, from a company laptop to the data that would help me take the right decisions. I was invited to have lunch with different people, dinner and drinks with my team and I was even invited over to dinner at a co-workers home. Everyone I met took an interest in learning more about me, professionally and personally, and freely shared more about themselves. By the end of the week, I had received an offer to join Prezi. 
+Working on my assessment, I had access to all the resources I needed, from a company laptop to the data that would help me take the right decisions. I was invited to have lunch with different people, dinner and drinks with my team and I was even invited over to dinner at a co-workers home. Everyone I met took an interest in learning more about me, professionally and personally, and freely shared more about themselves. By the end of the week, I had received an offer to join Prezi.
 
 <figure>
   <img src="../../images/posts/2014-10-18-budapest.jpg">
@@ -40,7 +40,7 @@ The month leading up to my move flew past and before I knew it I was on a plane 
   <figcaption>Prezi's SF Office</figcaption>
 </figure>
 
-As a Product Manager, understanding your target users and the ecosystem of your product are prerequisites to success, so being new to Prezi, I knew I needed to quickly immerse myself in the space. Happily, Prezi understands the importance of understanding our users, and dedicates the people and resources necessary to achieve this. This made my journey of discovery much easier, as I was able to join a research trip to Chicago and experience our users first hand. 
+As a Product Manager, understanding your target users and the ecosystem of your product are prerequisites to success, so being new to Prezi, I knew I needed to quickly immerse myself in the space. Happily, Prezi understands the importance of understanding our users, and dedicates the people and resources necessary to achieve this. This made my journey of discovery much easier, as I was able to join a research trip to Chicago and experience our users first hand.
 
 <figure>
   <img src="../../images/posts/2014-10-18-chicago.jpg">
@@ -53,4 +53,4 @@ Work has been a lot of fun and an interesting challenge. There was a lot to do a
 
 All in all, a busy, but very worthwhile experience so far. I am eager to see what comes next!
 
-Did I mention [we are hiring](http://www.prezi.com/jobs)?
+Did I mention we are hiring?
