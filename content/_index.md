@@ -1,11 +1,14 @@
-# 👋 Hi there!
+# 👋 Hi!
 
-My name is Sebastian Cachia. I am a product person currently working with [Shapr3D](https://www.shapr3d.com) to build a better CAD. I was born in Malta 🇲🇹 and I live in Budapest, Hungary 🇭🇺 with my family (👨‍👩‍👧‍👧 + 🐶).
-
----
+My name is Sebastian, but you can call me Seb. I am Maltese-German (🇲🇹 + 🇩🇪), and currently live in Budapest, Hungary 🇭🇺 with my family (👨‍👩‍👧‍👧 + 🐶). I am a product person and currently work at [Shapr3D](https://www.shapr3d.com) where we are building better CAD software.
 
 ## 💬 Get in touch
 
-Feel free to connect to talk about Product, CAD or if you think I could help with anything else.
+Connect if you want to talk about Product, CAD or anything else you think I could have an insight on.
+
 📧 {{< cloakemail address="mail@sebcachia.com" >}}
+
 👤 [Linkedin](https://linkedin.com/in/sebcachia)
+
+
+---
