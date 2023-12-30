@@ -4,7 +4,7 @@ menu = "main"
 +++
 
 # 👤 Resume
-I am really focused on our mission at [Shapr3D](https://www.shapr3d.com) right now and am not looking for new opportunities, but I am always happy to connect, talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
+I am really focused on our mission at [Shapr3D](https://www.shapr3d.com) right now and am not looking for new opportunities, but I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
 
 ## Overview
 * [Work Experience](#work-experience)
