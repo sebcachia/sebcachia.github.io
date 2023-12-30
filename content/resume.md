@@ -60,7 +60,7 @@ Final dissertation on: Applying User-Centered Design Techniques to Online Identi
 ### [University of Malta](https://www.um.edu.mt/)
 **Bachelor's Degree, Computer Information Systems** - *2007 - 2009*
 
-### Reforge
+### [Reforge](https://www.reforge.com)
 *2021 - Present*
 
 - Product Led Growth
