@@ -1,10 +1,10 @@
 +++
-title = "CV"
+title = "Resume"
 menu = "main"
 +++
 
-# Curriculum Vitae
-I am not currenty looking for new opportunities, but I am happy to offer advice in the field of Product Management or make connections to my network. For more detail, check out my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
+# 👤 Resume
+I am really focused on our mission at [Shapr3D](https://www.shapr3d.com) right now and am not looking for new opportunities, but I am always happy to connect, talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
 
 ## Overview
 * [Work Experience](#work-experience)
