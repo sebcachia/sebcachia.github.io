@@ -50,7 +50,7 @@ Uniblue, wass a leading provider of software that helped improve the performance
 ## Education
 
 ### [University of London](https://www.london.ac.uk/)
-**Diploma, Information and Communication Technologys** - *2009 - 2014*
+**Bachelor's Degree, Computer Information Systems** - *2007 - 2009*
 
 Final dissertation on: Applying User-Centered Design Techniques to Online Identity Systems:
 
@@ -58,7 +58,7 @@ Final dissertation on: Applying User-Centered Design Techniques to Online Identi
 > Two key archetypes, identified during the practical component of this project, informed the creation of specific User Personas. Through these Personas it became apparent that factors such as the user's perception of control over their identify are essential to the success of Online Identity and Authentication systems.
 
 ### [University of Malta](https://www.um.edu.mt/)
-**Bachelor's Degree, Computer Information Systems** - *2007 - 2009*
+**Diploma, Information and Communication Technologys** - *2009 - 2014*
 
 ### [Reforge](https://www.reforge.com)
 *2021 - Present*
