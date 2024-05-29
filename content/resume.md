@@ -4,9 +4,10 @@ menu = "main"
 +++
 
 # 📄 Resume
-I work with product companies to develop researched back strategies, craft stories to inspire teams and attract customers, define operational practices, and drive aligned execution towards outcomes.
+I work with product companies to develop researched back strategies, craft stories to inspire teams and attract customers. 
+I design teams and operational practices to create high-functioning organizations, but I also love to get into the details and get stuff done.
 
-I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
+I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia) or email at {{< cloakemail address="mail@sebcachia.com" >}}.
 
 ## Overview
 * [Work Experience](#work-experience)
