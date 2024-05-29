@@ -103,7 +103,7 @@ Final dissertation on: Applying User-Centered Design Techniques to Online Identi
 
 ## Achievements
 
-- **Startup Weekend Malta* - Winning team in 2013
-- **The Duke of Edinburgh's International Award* - Gold Award in 2012
-- **World Organization of the Scout Movement* - Scout Leader from 2006 to 2010
+- **Startup Weekend Malta** - Winning team in 2013
+- **The Duke of Edinburgh's International Award** - Gold Award in 2012
+- **World Organization of the Scout Movement** - Scout Leader from 2006 to 2010
 
