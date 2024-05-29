@@ -3,7 +3,7 @@ title = "Resume"
 menu = "main"
 +++
 
-# 👤 Resume
+# 📄 Resume
 I work with product companies to develop researched back strategies, craft stories to inspire teams and attract customers, define operational practices, and drive aligned execution towards outcomes.
 
 I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
