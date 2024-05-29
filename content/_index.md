@@ -8,7 +8,7 @@ Sometimes, I advise early stage startups or do some Product coaching, reach out 
 
 ## 🏡 Personal
 
-When I'm not working, I spend all my time with my family of 5 (👨‍🦲👩👧👧🐶), or doing my best to take care of myself and maintain a great quality of life (🏃🧘🏋️📖🧘‍♂️🚶🚲🍳).
+When I'm not working, I spend all my time with my family of 5 (👨‍🦲👩👧👧🐶), or doing my best to take care of myself and maintain a great quality of life (🏃🧘🏋️📖🚶🍳).
 
 ## 💬 Get in touch
 
