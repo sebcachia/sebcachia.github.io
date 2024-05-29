@@ -6,7 +6,7 @@ baseURL = "https://sebcachia.com"
 theme = ["hugo-cloak-email", "hugo-bearblog"]
 
 # Basic metadata configuration for your blog.
-title = "sebcachia.com"
+title = "🧭 sebcachia.com"
 author = "Seb Cachia"
 copyright = "Copyright © 2024, Sebastian Cachia."
 languageCode = "en-US"
