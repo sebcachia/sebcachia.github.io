@@ -4,7 +4,9 @@ menu = "main"
 +++
 
 # 👤 Resume
-I am really focused on our mission at [Shapr3D](https://www.shapr3d.com) right now and am not looking for new opportunities, but I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
+I work with product companies to develop researched back strategies, craft stories to inspire teams and attract customers, define operational practices, and drive aligned execution towards outcomes.
+
+I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia).
 
 ## Overview
 * [Work Experience](#work-experience)
@@ -14,13 +16,20 @@ I am really focused on our mission at [Shapr3D](https://www.shapr3d.com) right n
 
 ### [Shapr3D](https://www.shapr3d.com)
 
-**VP of Product** - *2019 - Present*
+**VP of Product** - *August 2019 - Present*
+**VP of Product** - *October 2019 - August 2021*
 
-Shapr3D eliminates the unnecessary complexity of CAD to boost speed and efficiency for design and manufacturing teams.
+Shapr3D is a radically efficient CAD tool that helps design and manufacturing teams create better products faster.
 
-I work with our Product and Engineering organization to help make sure we continue to deliver high impact improvements to the product, for our users and for the business.
-
-As a member of the executive team, I work with our CEO and the cross-functional executive leadership team to ensure our business strategy aligns into impactful product strategy. I also help ensure the right foundations for a great product company culture and operational practices are established.
+* I joined Shapr3D as the first Product Management hire, built out the Product organization, and became a member of the forming executive team.
+* In my time with the company I led the strategy that transitioned the company from an iPad app used by prosumers, to a multi-platform professional-grade design tool adopted through product-led motions by enterprise companies.
+* As a member of the executive team, I played a key role in driving culture, operational practices, and financial planning. This helped us scale from about 20 to 130 people while keeping low burn and high alignment around impactful initiatives.
+* I worked on multiple initiatives across Product Management, Product Marketing, Growth and Brand Marketing. Together with these teams, I have:
+** Launched features which defined some of the core UX patterns of our award winning software. 
+** Launched pricing, packaging and payment flows that have contributed significant % uplifts to net new MRR 
+** Defined segment messaging
+** Worked on communications strategy and multimedia assets for product launches
+** Helped roll out a new professional brand identity.
 
 ### [Prezi](https://www.prezi.com)
 
