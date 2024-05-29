@@ -6,6 +6,8 @@ Most recently, I spent 5 years working with the team at [Shapr3D](https://www.sh
 
 Sometimes, I advise early stage startups or do some Product coaching, reach out if you think I can help you.
 
+## 🏡 Personal
+
 When I'm not working, I spend all my time with my family of 5 (👨‍🦲👩👧👧🐶), or doing my best to take care of myself and maintain a great quality of life (🏃🧘🏋️📖🧘‍♂️🚶🚲🍳).
 
 ## 💬 Get in touch
@@ -15,6 +17,5 @@ Connect if you want to talk 😀.
 📧 {{< cloakemail address="mail@sebcachia.com" >}}
 
 👤 [Linkedin](https://linkedin.com/in/sebcachia)
-
 
 ---
