@@ -4,7 +4,7 @@ menu = "main"
 +++
 
 # 📄 Resume
-I work with product companies to develop researched backed strategies, craft stories to inspire teams and attract customers. 
+I work with product companies to develop user centric strategies, and I craft stories to inspire teams and attract customers. 
 I design teams and operational practices to create high-functioning organizations, but I also love to get into the details and get stuff done.
 
 I am always happy to talk, offer advice, or help make introductions. Get more details and connect on my [Linkedin profile](https://www.linkedin.com/in/sebcachia) or email at {{< cloakemail address="mail@sebcachia.com" >}}.
