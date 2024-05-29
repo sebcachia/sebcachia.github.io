@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I work with product companies to develop researched back strategies, craft stories to inspire teams and attract customers. 
+I work with product companies to develop researched backed strategies, craft stories to inspire teams and attract customers. 
 I design teams and operational practices to create high-functioning organizations, but I also love to get into the details and get stuff done.
 
 Most recently, I spent 5 years working with the team at [Shapr3D](https://www.shapr3d.com) to build better CAD software.
