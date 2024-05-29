@@ -16,9 +16,7 @@ I am always happy to talk, offer advice, or help make introductions. Get more de
 
 ### [Shapr3D](https://www.shapr3d.com)
 
-**VP of Product** - *August 2019 - Present*
-
-**VP of Product** - *October 2019 - August 2021*
+**VP of Product** - *August 2019 - Present*, **Director of Product** - *October 2019 - August 2021*
 
 Shapr3D is a radically efficient CAD tool that helps design and manufacturing teams create better products faster.
 
