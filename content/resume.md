@@ -19,6 +19,7 @@ I am always happy to talk, offer advice, or help make introductions. Get more de
 ### [Shapr3D](https://www.shapr3d.com)
 
 **VP of Product** - *August 2019 - Present*
+
 **Director of Product** - *October 2019 - August 2021*
 
 Shapr3D is a radically efficient CAD tool that helps design and manufacturing teams create better products faster.
@@ -36,6 +37,7 @@ Shapr3D is a radically efficient CAD tool that helps design and manufacturing te
 ### [Prezi](https://www.prezi.com)
 
 **Director of Product** - *December 2015 - October 2019*
+
 **Senior Product Manager** - *August 2014 - December 2015*
 
 Prezi is the pioneering zooming presentation software that uses an open canvas instead of traditional slides to help people explore ideas, collaborate more effectively, and create visually dynamic presentations.
@@ -101,7 +103,7 @@ Final dissertation on: Applying User-Centered Design Techniques to Online Identi
 
 ## Achievements
 
-- *Startup Weekend Malta* - Winning team in 2013
-- *The Duke of Edinburgh's International Award* - Gold Award in 2012
-- *World Organization of the Scout Movement* - Scout Leader from 2006 to 2010
+- **Startup Weekend Malta* - Winning team in 2013
+- **The Duke of Edinburgh's International Award* - Gold Award in 2012
+- **World Organization of the Scout Movement* - Scout Leader from 2006 to 2010
 
