@@ -3,7 +3,7 @@ title = "Resume"
 menu = "main"
 +++
 
-# 📄 Resume
+# 👨‍🦲 Resume
 I work with product companies to develop user centric strategies, and I craft stories to inspire teams and attract customers. 
 I design teams and operational practices to create high-functioning organizations, but I also love to get into the details and get stuff done.
 
