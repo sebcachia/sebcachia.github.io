@@ -21,7 +21,7 @@ I’ve tried to reflect on how I work, and I have organized some notes about tha
 
 ## Communication
 1. Direct feedback is the most efficient way for me to improve myself. If you don’t like something I did or said, please tell me. I am curious to understand and learn, so I appreciate it even more if you give me as much context as possible.
-1. A face-to-face conversation about feedback would be preferred, but I know it is sometimes uncomfortable. Anonymous feedback is better than no feedback, so if you prefer, you can always share feedback using my form: Seb’s Feedback Form
+1. A face-to-face conversation about feedback would be preferred, but I know it is sometimes uncomfortable. Anonymous feedback is better than no feedback, so if you prefer, you can always share feedback using my form: [Seb’s Feedback Form](https://sebcachia.notion.site/12f8820356da8054b33dc7d843752ca8?pvs=105)
 1. I know I can come across as very certain, maybe even overconfident, but I am working on creating space for others in discussions. If I fall short, please don’t hold back, I am eager to hear your input.
 
 ## Collaboration
