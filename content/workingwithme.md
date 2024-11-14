@@ -29,7 +29,7 @@ I am a curious person. I love Product Management because of the broad variety of
 I am always happy to work together or provide feedback on the spot, but I know that I am way more effective when I take time to gain context, review artifacts and give a topic some thought. I am really grateful when somebody takes time to share a pre-read before a meeting. I will try to be disciplined around reviewing it, though sometimes I will fail.
 When collaborating, I sometimes create a rough draft of a document or design to help make communication more explicit. It is not set in stone, it is more of a conversation starter. Feel free to change, improve or even scrap it altogether.
 
-##Availability and meetings
+## Availability and meetings
 I will try to block off recurring 121 times at least every fortnight with some of the people I am currently collaborating with. I do this as a forcing function for discussions, but you shouldn’t wait for this slot if you need me, and we can cancel the slot if we don’t need it.
 I work with a lot of people and it is tough to have recurring 121s with everyone. Please grab time with me when you need it, even if we don’t have a 121 scheduled. Sometimes I might need more time to focus, or spend time with others, and I might cancel our recurring 121. I am sorry, it is nothing personal, I am open to reconsider if you think we need the time, and I am always open to an ad-hoc chat.
 I prioritize being available to others during core working hours. If you need my time or input, you’re welcome to claim it—even if I seem busy. I’ll protect my time when necessary, especially if I'm under deadline pressure or have conflicting commitments, but otherwise, I try to be open and responsive.
