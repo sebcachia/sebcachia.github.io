@@ -1,8 +1,5 @@
 +++
 title = "Working with me"
-+++
-+++
-title = "Working with me"
 date = "2024-11-15"
 description = "A manual to me of sorts to help shortcut effective collaboration"
 tags = [
