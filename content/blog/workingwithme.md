@@ -1,10 +1,16 @@
 +++
 title = "Working with me"
 +++
++++
+title = "Working with me"
+date = "2024-11-15"
+description = "A manual to me of sorts to help shortcut effective collaboration"
+tags = [
+    "mindset", "work"
+]
++++
 
 # 🤝 Working with me
-
-🗓️ Last updated: November 2024
 
 {{< figure src="../images/posts/malta_saltpens_waves.webp">}}
 
