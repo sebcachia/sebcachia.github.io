@@ -9,8 +9,8 @@ title = "Working with me"
 {{< figure src="../images/posts/malta_saltpens_waves.webp">}}
 
 ## Meta
-Hi! If you are reading this we are probably about to start working together. I am excited to get to know you better, if we haven’t already we should have a chat over coffee, lunch, or beer.
-I’ve tried to reflect on how I work, and I have organized some notes about that here. I hope it will help us work together well even sooner, and perhaps give some context to some of my quirks.
+Hi! If you are reading this we are probably about to start working together. I am excited to get to know you better, and if we haven’t already we should have a chat over coffee, lunch, or beer.
+I’ve tried to reflect on how I work, and I have organized some notes about that here. I hope it will help us work well together even sooner, and perhaps give some context to some of my quirks.
 
 ## Mindset
 1. I am an idealist by nature. I try to work on things I believe in, and I assume most people have good intentions. Early in my career, I could be a bit dogmatic, feel free to call me out if I slip back into that.
