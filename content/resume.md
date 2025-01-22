@@ -17,6 +17,16 @@ I am always happy to talk, offer advice, or help make introductions. Get more de
 
 ## Work Experience
 
+### [Personio](https://www.personio.com)
+
+**Product Manager** - *January 2020 - Present*
+
+Personio is the leading all-in-one HR software powering the mid-market in the DACH region. We are helping build better, more efficiently operated companies.
+
+I joined the Employee & Organization area to work on ensuing that our customers' HR Operations Managers and employees have tools that help them accurately and efficiently manage their data.
+
+-
+
 ### [Shapr3D](https://www.shapr3d.com)
 
 **VP of Product** - *August 2019 - July 2024*
