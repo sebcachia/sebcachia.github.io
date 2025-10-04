@@ -19,7 +19,7 @@ I am always happy to talk, offer advice, or help make introductions. Get more de
 
 ### [Personio](https://www.personio.com)
 
-**Principal Product Manager** - *January 2020 - Present*
+**Product Manager** - *January 2020 - Present*
 
 Personio is the leading all-in-one HR software powering the mid-market in the DACH region. We are helping build better, more efficiently operated companies.
 
